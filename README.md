@@ -23,7 +23,7 @@ Expanding my skills in **JS**, **PHP** and **C++**
 
 ### 🛠️ Technical Skills  
 <br>
-**Languages:**  
+**Languages:**
 <br>
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
