@@ -1,9 +1,9 @@
 <div align="center">
 
-# 💻 HHakeRR's GitHub Profile  
+# 💻 froxy.'s GitHub Profile  
 
 ### 👋 About Me  
-Hello! I'm **HHakeRR** from **Poland**, a programmer focused on **Web development**, **C++ projects**, **Database servers**
+Hello! I'm **froxy.** from **Poland**, a programmer focused on **Web development**, **C++ projects**, **Database servers**
 I build hosting solutions, customize Pterodactyl, and explore modern frameworks.
 
 ---
