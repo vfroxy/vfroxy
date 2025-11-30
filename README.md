@@ -17,7 +17,7 @@ Improving databases knowledge
 
 ### 🌱 Currently Learning  
 Advanced backend concepts and infrastructure management.  
-Expanding my skills in **JS**, **PHP**, and **C++**, **SQL**.  
+Expanding my skills in **JS**, **PHP**, **C++** and **SQL**.  
 
 ---
 
@@ -29,6 +29,7 @@ Expanding my skills in **JS**, **PHP**, and **C++**, **SQL**.
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
 
 
 **Tools & Platforms:**  
