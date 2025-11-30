@@ -9,9 +9,7 @@ I build hosting solutions, customize Pterodactyl, and explore modern frameworks.
 ---
 
 ### 🚀 What I’m Working On  
-Developing my own **hosting platform**.  
-Customizing and extending the **Pterodactyl panel**.  
-Building and maintaining **Discord bots in Python**.  
+Developing websites (stores, frontend, fullstack)
 
 ---
 
