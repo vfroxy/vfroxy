@@ -10,6 +10,7 @@ I build hosting solutions, customize Pterodactyl, and explore modern frameworks.
 
 ### 🚀 What I’m Working On  
 Developing websites (stores, frontend, fullstack)
+<br>
 Improving databases knowledge
 
 ---
