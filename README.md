@@ -17,12 +17,12 @@ Improving databases knowledge
 
 ### 🌱 Currently Learning  
 Advanced backend concepts and infrastructure management.  
-Expanding my skills in **JS**, **PHP**, **C++** and **SQL**.  
+Expanding my skills in **JS**, **PHP** and **C++**
 
 ---
 
 ### 🛠️ Technical Skills  
-
+<br>
 **Languages:**  
 <br>
 
