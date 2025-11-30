@@ -4,7 +4,7 @@
 
 ### 👋 About Me  
 Hello! I'm **froxy.** from **Poland**, a programmer focused on **Web development**, **C++ projects**, **Database servers**
-I build hosting solutions, customize Pterodactyl, and explore modern frameworks.
+
 
 ---
 
