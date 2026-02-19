@@ -3,7 +3,7 @@
 # 💻 froxy.'s GitHub Profile  
 
 ### 👋 About Me  
-Hello! I'm **froxy.** from **Poland**, a programmer focused on **Web development**, **C++ projects**, **Database servers**
+Hello! I'm **froxy.** from **Poland**, a programmer focused on **Web development**, **C++ projects**, **Database servers**,**Discord Bot**
 
 
 ---
